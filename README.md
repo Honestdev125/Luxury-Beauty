@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div>
+  <h1>Click on the GitHub icon below to view the project online.</h1>
+  <a href="https://github.com/hamiparsa/BeautyWorld">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-## Getting Started
+# BeautyWorld 💄✨
 
-First, run the development server:
+**BeautyWorld** is a modern, responsive cosmetics website built with React, Next.js, and TypeScript.  
+It features a polished UI with smooth animations, interactive brand and product cards, and elegant styling using Tailwind CSS. This project demonstrates advanced front-end skills using **React**, **Next.js**, **Framer Motion**, and **Tailwind CSS** for a luxurious user experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<ul>
+  <li>Landing page with Hero section, video background, and animated buttons</li>
+  <li>Brands section showcasing multiple cosmetic brands with hover animations and blur effects</li>
+  <li>Products section with interactive cards and responsive Swiper carousel</li>
+  <li>Testimonials section with Glassmorphism cards and smooth entry animations</li>
+  <li>Newsletter subscription section with glass-style input, animated button, and background glow</li>
+  <li>Fully responsive design for mobile, tablet, and desktop</li>
+  <li>Smooth animations using Framer Motion for buttons, cards, and sections</li>
+  <li>Modern UI: gradient overlays, hover effects, rounded cards, shadows</li>
+  <li>Professional Header with mobile-friendly hamburger menu and Footer with social icons</li>
+</ul>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Technologies Used:
 
-To learn more about Next.js, take a look at the following resources:
+<ul>
+  <li>
+    React for building UI components
+    <img width='20px' src='https://skillicons.dev/icons?i=react'>
+  </li>
+  <li>
+    Next.js for routing and server-side rendering
+    <img width='20px' src='https://skillicons.dev/icons?i=next'>
+  </li>
+  <li>
+    TypeScript for type safety
+    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
+  </li>
+  <li>
+    Tailwind CSS for fast and responsive styling
+    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
+  </li>
+  <li>
+    Framer Motion for smooth animations
+    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
+  </li>
+  <li>
+    React Icons for vector icons
+    <img width='20px' src='https://skillicons.dev/icons?i=reacticons'>
+  </li>
+</ul>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Description:
 
-## Deploy on Vercel
+**BeautyWorld** is a full-featured cosmetics showcase website designed to highlight brands, products, and beauty tips. Users can:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Browse various cosmetic brands with hover animations and blur effects  
+- Explore top products in an interactive, responsive Swiper carousel  
+- Read testimonials with modern Glassmorphism cards  
+- Subscribe to the newsletter via a stylish glass-style input section  
+- Navigate seamlessly across all sections with a responsive header and footer  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The project highlights:
+
+- Clean, modern, and responsive UI with Tailwind CSS  
+- Interactive animations and hover effects using Framer Motion  
+- Professional front-end architecture with Next.js and TypeScript  
+- Fully responsive design for all device sizes  
+
+---
+
+<h1 align="center">Project Picture 🖼️</h1>
+
+<div align="center">
+  <img src="/screenshot1.png" width="700px" />
+  <br/> <br/>
+  <img src="/screenshot2.png" width="700px" />
+</div>
+<hr/>
+<div align="center">
+  <img src="/screenshot3.png" width="700px" />
+  <br/> <br/>
+  <img src="/screenshot4.png" width="700px" />
+</div>
+<hr/>
+<div align="center">
+  <img src="/screenshot5.png" width="700px" />
+</div>
