@@ -1,6 +1,6 @@
 <div>
   <h1>Click on the GitHub icon below to view the project online.</h1>
-  <a href="https://github.com/hamiparsa/BeautyWorld">
+  <a href="https://hamiparsa.github.io/Luxury-Beauty/">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -81,17 +81,17 @@ The project highlights:
 <h1 align="center">Project Picture 🖼️</h1>
 
 <div align="center">
-  <img src="/screenshot1.png" width="700px" />
+  <img src="/pic1.png" width="700px" />
   <br/> <br/>
-  <img src="/screenshot2.png" width="700px" />
+  <img src="/pic2.png" width="700px" />
 </div>
 <hr/>
 <div align="center">
-  <img src="/screenshot3.png" width="700px" />
+  <img src="/pic3.png" width="700px" />
   <br/> <br/>
-  <img src="/screenshot4.png" width="700px" />
+  <img src="/pic4.png" width="700px" />
 </div>
 <hr/>
 <div align="center">
-  <img src="/screenshot5.png" width="700px" />
+  <img src="/pic5.png" width="700px" />
 </div>
