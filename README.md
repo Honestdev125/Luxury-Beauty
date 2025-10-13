@@ -1,97 +1,91 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
+<div align="center">
+  <h1>💄 BeautyWorld</h1>
+  <p>Modern, responsive cosmetics website with interactive UI and smooth animations ✨</p>
   <a href="https://hamiparsa.github.io/Luxury-Beauty/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-# BeautyWorld 💄✨
+---
 
-**BeautyWorld** is a modern, responsive cosmetics website built with React, Next.js, and TypeScript.  
-It features a polished UI with smooth animations, interactive brand and product cards, and elegant styling using Tailwind CSS. This project demonstrates advanced front-end skills using **React**, **Next.js**, **Framer Motion**, and **Tailwind CSS** for a luxurious user experience.
+## 📝 About the Project
+
+**BeautyWorld** is a modern front-end cosmetics website built with **React, Next.js, TypeScript, Tailwind CSS, Framer Motion, and React Icons**.  
+The project showcases polished UI, interactive cards, and smooth animations for a luxurious user experience.
 
 ---
 
-## Features:
+## ✨ Features
 
 <ul>
   <li>Landing page with Hero section, video background, and animated buttons</li>
-  <li>Brands section showcasing multiple cosmetic brands with hover animations and blur effects</li>
+  <li>Brands section with multiple cosmetic brands, hover animations, and blur effects</li>
   <li>Products section with interactive cards and responsive Swiper carousel</li>
   <li>Testimonials section with Glassmorphism cards and smooth entry animations</li>
-  <li>Newsletter subscription section with glass-style input, animated button, and background glow</li>
+  <li>Newsletter subscription with glass-style input, animated button, and background glow</li>
   <li>Fully responsive design for mobile, tablet, and desktop</li>
-  <li>Smooth animations using Framer Motion for buttons, cards, and sections</li>
-  <li>Modern UI: gradient overlays, hover effects, rounded cards, shadows</li>
-  <li>Professional Header with mobile-friendly hamburger menu and Footer with social icons</li>
+  <li>Smooth animations using Framer Motion</li>
+  <li>Modern UI with gradients, hover effects, rounded cards, and shadows</li>
+  <li>Professional Header with hamburger menu and Footer with social icons</li>
 </ul>
 
 ---
 
-## Technologies Used:
+## 🧰 Tech Stack
 
-<ul>
-  <li>
-    React for building UI components
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-  <li>
-    Next.js for routing and server-side rendering
-    <img width='20px' src='https://skillicons.dev/icons?i=next'>
-  </li>
-  <li>
-    TypeScript for type safety
-    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
-  </li>
-  <li>
-    Tailwind CSS for fast and responsive styling
-    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
-  </li>
-  <li>
-    Framer Motion for smooth animations
-    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
-  </li>
-  <li>
-    React Icons for vector icons
-    <img width='20px' src='https://skillicons.dev/icons?i=reacticons'>
-  </li>
-</ul>
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Build interactive UI components |
+| 🧭 **Next.js** | Routing and server-side rendering |
+| 🟦 **TypeScript** | Type safety and maintainable code |
+| 🎨 **Tailwind CSS** | Responsive styling and modern UI |
+| 🪄 **Framer Motion** | Smooth animations and transitions |
+| 🛠️ **React Icons** | Scalable vector icons |
 
 ---
 
-## Description:
+## 💡 Description
 
-**BeautyWorld** is a full-featured cosmetics showcase website designed to highlight brands, products, and beauty tips. Users can:
+Users can:
 
-- Browse various cosmetic brands with hover animations and blur effects  
-- Explore top products in an interactive, responsive Swiper carousel  
+- Browse cosmetic brands with interactive hover animations  
+- Explore top products in Swiper carousel  
 - Read testimonials with modern Glassmorphism cards  
-- Subscribe to the newsletter via a stylish glass-style input section  
-- Navigate seamlessly across all sections with a responsive header and footer  
+- Subscribe to newsletter via stylish input section  
+- Navigate all sections seamlessly with responsive header and footer  
 
-The project highlights:
+Project highlights:
 
-- Clean, modern, and responsive UI with Tailwind CSS  
-- Interactive animations and hover effects using Framer Motion  
-- Professional front-end architecture with Next.js and TypeScript  
-- Fully responsive design for all device sizes  
+- Clean, modern, and responsive UI  
+- Interactive animations using Framer Motion  
+- Professional front-end architecture with React, Next.js, TypeScript  
+- Fully responsive design across all devices  
 
 ---
 
-<h1 align="center">Project Picture 🖼️</h1>
+## 🖼️ Project Preview
 
 <div align="center">
   <img src="/pic1.png" width="700px" />
-  <br/> <br/>
+  <br/><br/>
   <img src="/pic2.png" width="700px" />
-</div>
-<hr/>
-<div align="center">
+  <br/><br/>
   <img src="/pic3.png" width="700px" />
-  <br/> <br/>
+  <br/><br/>
   <img src="/pic4.png" width="700px" />
-</div>
-<hr/>
-<div align="center">
+  <br/><br/>
   <img src="/pic5.png" width="700px" />
+</div>
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+💬 Front-End Developer | Focused on modern, interactive web projects  
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,framer,reacticons" />
 </div>
